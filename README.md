@@ -16,7 +16,7 @@
 ## 安裝與執行步驟
 - 下載專案到本機
 ```
-git clone https://github.com/ShinTingTsai/restaurant_list.git
+git clone https://github.com/ShinTingTsai/rubbish_generator.git
 ```
 - 切至專案資料夾
 ```
